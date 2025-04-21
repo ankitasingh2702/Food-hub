@@ -1,0 +1,164 @@
+
+
+*{
+box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   padding-left: 1%;
+ 
+
+}
+.icon{
+  padding-top: 30px;
+  padding-left: 1%;
+  display: inline-block;
+  flex-direction: column;
+  color:yellowgreen;
+}
+.nav-items{
+  text-align: left;
+  background-color: rgb(4, 105, 105);
+  display: inline;
+;
+
+
+}
+option{
+  background-color: rgb(231, 81, 81);
+  color:  #e7b1b1;
+}
+
+
+
+
+  img {
+    margin: 1%;
+  }
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 32%;
+  }
+  
+  div.gallery:hover {
+    border: 3px solid darkslateblue;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    text-align:center;
+    margin: 5%;
+    padding: 5%;
+    width: 90%;
+    height: 40%;
+  }
+  li{
+    text-align: center;
+  }
+  .name{
+    text-align: center;
+    font-size: x-large;
+    color: crimson;
+  }
+  #font{
+    text-align: center;
+     font-size: xx-large;
+     font-weight: 600;
+     color:darkcyan;
+   }
+   .chef{
+   
+   margin: 20px;
+   }
+   .vikash{
+    text-align: left;
+   }
+  #aboutme {
+    box-sizing: content-box;
+    border-radius: 1000px;
+    padding: 50px;
+    background-color: #d8f35f;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+  
+  
+  }
+  
+  h4 {
+    text-align: center;
+    font-family: 'Gill Sans', Calibri, sans-serif;
+    font-size: 20px;
+    color:rgb(121, 111, 7);
+  font-size: x-large;
+  }
+  p{
+    color: rgb(2, 73, 52);
+    font-style: normal;
+  }
+  
+  h3 {
+    text-align: center;
+    font-family: Algerian, Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color:white;
+    font-size: x-large;
+    display: inline;
+    top: 250px;
+    margin: auto;
+    padding: auto;
+  
+  }
+  #contactme {
+    border: 2px solid black;
+    padding: 40px;
+  text-align: center;
+   right: 50px;
+  padding-left: 50px;
+  line-height: 2;
+  color:black;
+  word-spacing: 9px;
+  background-color: darkcyan;
+  }
+  .headline{
+    text-align: center;
+  }
+#logo{
+  text-align: center;
+}
+
+  
+
+  footer {
+    background-color: #6bbdec;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    padding-top: 1%;
+    box-sizing: border-box;
+  }
+  .footer {
+ 
+    
+    border: 3px solid grey;
+
+    color:black;
+  }
+  
+ 
+ 
+  
+  #copy {
+    text-align: center;
+    text-decoration: overline;
+    
+  }
+  
